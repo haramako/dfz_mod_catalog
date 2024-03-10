@@ -21,9 +21,9 @@
         </CatalogEntry>
         <CatalogEntry>
             <Name>ファング強制装備しばり</Name>
-            <Uri>https://github.com/yagamuu/speedrun/raw/master/DragonFangZ/Mod/DFZForceFangEquipMod/DFZForceFangEquipMod.dll</Uri>
+            <Uri>https://github.com/yagamuu/DragonFangZ-Mods/raw/master/DFZForceFangEquipMod/MelonPrefManager.Mono.dll</Uri>
             <Description>DESC DESC DESC</Description>
-            <Version>1.0.5</Version>
+            <Version>1.0.7</Version>
         </CatalogEntry>
         <CatalogEntry>
             <Name>クイックリスタート</Name>
