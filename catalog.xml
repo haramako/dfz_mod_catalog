@@ -21,7 +21,7 @@
         </CatalogEntry>
         <CatalogEntry>
             <Name>ファング強制装備しばり</Name>
-            <Uri>https://github.com/yagamuu/DragonFangZ-Mods/raw/master/DFZForceFangEquipMod/MelonPrefManager.Mono.dll</Uri>
+            <Uri>https://github.com/yagamuu/DragonFangZ-Mods/raw/master/DFZForceFangEquipMod/DFZForceFangEquipMod.dll</Uri>
             <Description>DESC DESC DESC</Description>
             <Version>1.0.7</Version>
         </CatalogEntry>
