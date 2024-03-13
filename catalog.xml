@@ -11,7 +11,7 @@
             <Name>バグ修正</Name>
             <Uri>https://github.com/haramako/DragonFangZ-Mods/raw/master//DFZBugfixMod/DFZBugfixMod.dll</Uri>
             <Description>DESC DESC DESC</Description>
-            <Version>1.1.1</Version>
+            <Version>1.1.2</Version>
         </CatalogEntry>
         <CatalogEntry>
             <Name>ステートセーブ/ロード機能</Name>
