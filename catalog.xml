@@ -31,5 +31,23 @@
             <Description>DESC DESC DESC</Description>
             <Version>1.0.0</Version>
         </CatalogEntry>
+        <CatalogEntry>
+            <Name>バランス調整</Name>
+            <Uri>https://github.com/yagamuu/DragonFangZ-Mods/raw/master/DFZBalancingMod/DFZBalancingMod.dll</Uri>
+            <Description>DESC DESC DESC</Description>
+            <Version>1.0.1</Version>
+        </CatalogEntry>
+        <CatalogEntry>
+            <Name>竜のゆりかご高難易度化</Name>
+            <Uri>https://github.com/yagamuu/DragonFangZ-Mods/raw/master/DFZCradlePlus/DFZCradlePlus.dll</Uri>
+            <Description>DESC DESC DESC</Description>
+            <Version>1.1.1</Version>
+        </CatalogEntry>
+        <CatalogEntry>
+            <Name>全グラフィックもち化</Name>
+            <Uri>https://github.com/yagamuu/DragonFangZ-Mods/raw/master/DFZMochiInferno/DFZMochiInferno.dll</Uri>
+            <Description>DESC DESC DESC</Description>
+            <Version>1.0.0</Version>
+        </CatalogEntry>
     </Entries>
 </Catalog>
